@@ -1,0 +1,15 @@
+{
+  "name": "zyl-lerna-package-1",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "zyl-lerna-package-2": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
